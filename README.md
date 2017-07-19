@@ -1,6 +1,7 @@
 # PCMR_Game_Buyer
 
 --- About this ---
+
 My goal for this script was to make a quick script to assist me when buying games.
 
 When run the script will take a search term that you give it and enter it into 6 different online PC game stores. It will open each store in a browser tab with your search term already entered, thus allowing you to compare prices and save some sweet cash. 
