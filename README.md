@@ -2,9 +2,17 @@
 
 --- About this ---
 
-My goal for this script was to make a quick program to assist me when buying games.
+My goal for this script was to make a quick program to assist me when searching for video games across different stores. I came up with this script that will take a search term and enter it into different game store sites and open them in browser windows so you can choose the one with the best price. 
 
-When run the script will take a search term that you give it and enter it into 6 different online PC game stores. It will open each store in a browser tab with your search term already entered, thus allowing you to compare prices and save some sweet cash. 
+Stores it will search: 
+Steam
+Origin
+G2A
+Gog
+Greenman Gaming
+Kinguin
+
+(let me know if I should add any!)
 
 --- Usage ---
 
