@@ -16,7 +16,13 @@ Kinguin
 
 --- Usage ---
 
-Simply download the main.py script and run it with python 3.
+Simply download the main.py script and run it with python 2.7.
+
+
+You can also download the exe file that was made using py2exe.
+
+Here is a guide on how to make it yourself if you don't trust mine. (No offense taken.)
+https://null-byte.wonderhowto.com/how-to/convert-python-script-exe-0163965/
 
 --- Disclaimer ---
 
