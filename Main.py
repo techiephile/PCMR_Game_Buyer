@@ -42,7 +42,7 @@ print("")
 
 
 def redo():
-    goagain = input("Do you want to run another search? [y]/[n]: ")
+    goagain = raw_input("Do you want to run another search? [y]/[n]: ")
     if goagain == "y":
         main()
     elif goagain == "n":
@@ -52,11 +52,12 @@ def redo():
         print("Please choose y or n")
         redo()
 
+
 # Main function
 
 
 def main():
-    game = input("Enter a game title to search for? ")
+    game = raw_input("Enter a game title to search for? ")
     print("Scouring the internet...")
     greenmangaming = "https://www.greenmangaming.com/search/" + game
     steam = "http://store.steampowered.com/search/?term=" + game
@@ -73,6 +74,6 @@ def main():
     webbrowser.open(origin)
     webbrowser.open(kinguin)
     redo()
-    
-main()
 
+
+main()
