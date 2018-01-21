@@ -18,15 +18,5 @@ Kinguin
 
 Simply download the main.py script and run it with python 2.7.
 
-
-You can also download the exe file that was made using py2exe.
-
-Here is a guide on how to make it yourself if you don't trust mine. (No offense taken.)
-https://null-byte.wonderhowto.com/how-to/convert-python-script-exe-0163965/
-
---- Disclaimer ---
-
-I am not a programmer by trade. If you would like to improve on this script please have at it.
-
 --- Contact ---
 If you have any thoughts or ideas you can find me at http://www.techiephile.tech or http://www.forum.techiephile.tech
