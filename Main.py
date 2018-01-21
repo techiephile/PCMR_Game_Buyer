@@ -74,6 +74,7 @@ def main():
     webbrowser.open(gog)
     webbrowser.open(origin)
     webbrowser.open(kinguin)
+    webbrowser.open(humblebundle)
     redo()
 
 
