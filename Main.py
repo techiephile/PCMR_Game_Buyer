@@ -65,6 +65,7 @@ def main():
     gog = "https://www.gog.com/games?sort=bestselling&search=" + game + "&page=1"
     origin = "https://www.origin.com/usa/en-us/search?searchString=" + game
     kinguin = "https://www.kinguin.net/catalogsearch/result/index/?q=" + game
+    humblebundle = "https://www.humblebundle.com/store/search?sort=bestselling&search=" + game
     webbrowser.open_new(greenmangaming)
     print("You should see a browser window open now!")
     time.sleep(5)
